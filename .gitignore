@@ -1,0 +1,18 @@
+# Файлы плагинов
+lazy-lock.json
+
+# Кэш
+.*.swp
+*.luac
+/lua/compiled.lua
+
+# Резервные копии
+*~
+*.bak
+
+# Сессии
+Session.vim
+
+# Пользовательские данные
+/plugin/
+/pack/
